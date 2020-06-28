@@ -12,7 +12,7 @@ public class Java_BigInteger_Class {
 		String s1 = scan.nextLine();
 		String s2 = scan.nextLine();
 		
-		
+		//converting to BigInteger using the class
 		BigInteger a = new BigInteger(s1);
 		BigInteger b = new BigInteger(s2);
 		
